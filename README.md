@@ -6,4 +6,4 @@ The repository aims at developing a unified dataset by collecting worldwide fine
 ## Project: https://covid19datahub.io/
 ## GitHub: https://github.com/covid19datahub/COVID19
 
-## [Contribution Badge] (https://api.eu.badgr.io/public/assertions/5ciPwDwyS76aQzrVwBVtxw?identity__email)
+## [Contribution Badge](https://api.eu.badgr.io/public/assertions/5ciPwDwyS76aQzrVwBVtxw?identity__email)
